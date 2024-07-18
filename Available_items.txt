@@ -1,0 +1,13 @@
+Item Unit_Price
+Soap 40
+Toothbrush 10
+Apple 25
+Kiwi 12
+Water_Bottle 10
+Juice 15
+Milk 10
+Coffee 12
+Chips 5
+Eggs 5
+Spinach 7
+Cookie 3
